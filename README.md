@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Laksh Vyas</h1>
-<h3 align="center">🚀 Learning ML | DL | GenAI | Django Enthusiast | Frontend Developer Option 2 (Creative + Friendly) 👨‍💻 Currently diving into ML, DL & Generative AI • Building with Django & Frontend Tech! Option 3 (Bold & Tech-Focused) 📊 ML | 🤖 DL | ✨ GenAI in Progress | 💻 Django & Frontend Developer Option 4 (Hackathon Friendly) 🔬 ML & GenAI Explorer | 🧠 DL Learner | 🌐 Full-Stack in Progress with Django & HTML/CSS/JS</h3>
+<h3 align="center">🚀 Learning ML | DL | GenAI | Django Enthusiast 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laksh4vyas&label=Profile%20views&color=0e75b6&style=flat" alt="laksh4vyas" /> </p>
 
