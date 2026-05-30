@@ -8,11 +8,17 @@
 💫 About Me
 
 🔭 Currently working on Email Generation & Driver Drowsiness Detection
+
 🧠 Interested in LLMs, Agentic AI, Generative AI & LangChain
+
 🏆 Udbhav #2 (2025) — Project Submission Hackathon participant
+
 🌍 Based in Jaipur, Rajasthan, India
+
 📚 Exploring advanced AI agent orchestration and scalable ML deployments
+
 💬 Ask me about AI Agents, LLMs, LangChain & FastAPI
+
 📩 Reach me at lakshvyas462006@gmail.com
 
 
